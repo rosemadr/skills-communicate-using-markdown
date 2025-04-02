@@ -3,3 +3,8 @@
 ![photo of a pancake on a plate](https://github.com/user-attachments/assets/90c48108-9deb-4f51-91f9-34922e54326d)
 
 ```echo "Hello World" ```
+
+### sample task list:
+- [ ] here's a task
+- [x] this is complete
+- [ ] this task is not
